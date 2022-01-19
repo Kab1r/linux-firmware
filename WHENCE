@@ -1273,10 +1273,6 @@ Version: 68.01d30b0c.0
 File: iwlwifi-so-a0-jf-b0-68.ucode
 Version: 68.01d30b0c.0
 
-File: iwlwifi-s0-a0-gf-a0.pnvm
-
-File: iwlwifi-s0-a0-gf4-a0.pnvm
-
 File: iwlwifi-ty-a0-gf-a0.pnvm
 
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
